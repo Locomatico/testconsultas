@@ -1,0 +1,1 @@
+select 'nuevo' from dual;
